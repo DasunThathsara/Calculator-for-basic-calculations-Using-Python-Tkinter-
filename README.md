@@ -1,2 +1,2 @@
-# Calculator-for-basic-calculations-
+# Python-Calculator-with-tkinter
 Simple calculator : Using tkinter - Python
