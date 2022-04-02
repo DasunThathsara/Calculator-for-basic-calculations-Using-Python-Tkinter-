@@ -2,4 +2,5 @@
 
 Simple calculator : Using tkinter - Python
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-Using-Python-Tkinter-/main/Capture.JPG" />
+
